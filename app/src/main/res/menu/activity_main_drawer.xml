@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Color Swatches">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_red"
+                    android:icon="@drawable/ndmi_0000_red"
+                    android:title="Red"
+
+                    />
+
+                <item
+                    android:id="@+id/nav_pink"
+                    android:icon="@drawable/ndmi_0001_pink"
+                    android:title="Pink" />
+
+                <item
+                    android:id="@+id/nav_purple"
+                    android:icon="@drawable/ndmi_0002_purple"
+                    android:title="Purple" />
+
+                <item
+                    android:id="@+id/nav_deep_purple"
+                    android:icon="@drawable/ndmi_0003_deep_purple"
+                    android:title="Deep Purple" />
+
+                <item
+                    android:id="@+id/nav_indigo"
+                    android:icon="@drawable/ndmi_0004_indigo"
+                    android:title="Indigo" />
+
+                <item
+                    android:id="@+id/nav_blue"
+                    android:icon="@drawable/ndmi_0005_blue"
+                    android:title="Blue" />
+
+                <item
+                    android:id="@+id/nav_light_blue"
+                    android:icon="@drawable/ndmi_0006_light_blue"
+                    android:title="Light Blue" />
+
+                <item
+                    android:id="@+id/nav_cyan"
+                    android:icon="@drawable/ndmi_0007_cyan"
+                    android:title="Cyan" />
+
+                <item
+                    android:id="@+id/nav_teal"
+                    android:icon="@drawable/ndmi_0008_teal"
+                    android:title="Teal" />
+
+                <item
+                    android:id="@+id/nav_green"
+                    android:icon="@drawable/ndmi_0009_green"
+                    android:title="Green" />
+
+                <item
+                    android:id="@+id/nav_light_green"
+                    android:icon="@drawable/ndmi_0010_light_green"
+                    android:title="Light Green" />
+
+                <item
+                    android:id="@+id/nav_lime"
+                    android:icon="@drawable/ndmi_0011_lime"
+                    android:title="Lime" />
+
+                <item
+                    android:id="@+id/nav_yellow"
+                    android:icon="@drawable/ndmi_0012_yellow"
+                    android:title="Yellow" />
+
+                <item
+                    android:id="@+id/nav_amber"
+                    android:icon="@drawable/ndmi_0013_amber"
+                    android:title="Amber" />
+
+                <item
+                    android:id="@+id/nav_orange"
+                    android:icon="@drawable/ndmi_0014_orange"
+                    android:title="Orange" />
+
+                <item
+                    android:id="@+id/nav_deep_orange"
+                    android:icon="@drawable/ndmi_0015_deep_orange"
+                    android:title="Deep Orange" />
+
+                <item
+                    android:id="@+id/nav_brown"
+                    android:icon="@drawable/ndmi_0016_brown"
+                    android:title="Brown" />
+
+                <item
+                    android:id="@+id/nav_grey"
+                    android:icon="@drawable/ndmi_0017_grey"
+                    android:title="Grey" />
+
+                <item
+                    android:id="@+id/nav_blue_grey"
+                    android:icon="@drawable/ndmi_0018_blue_grey"
+                    android:title="Blue Grey" />
+
+            </group>
+        </menu>
+    </item>
+
+</menu>

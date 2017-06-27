@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ACS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="ndmi_title_red">Red</string>
+    <string name="ndmi_title_pink">Pink</string>
+    <string name="ndmi_title_purple">Purple</string>
+    <string name="ndmi_title_deep_purple">Deep Purple</string>
+    <string name="ndmi_title_indigo">Indigo</string>
+
+    <string name="ndmi_title_blue">Blue</string>
+    <string name="ndmi_title_light_blue">Light Blue</string>
+    <string name="ndmi_title_cyan">Cyan</string>
+    <string name="ndmi_title_teal">Teal</string>
+    <string name="ndmi_title_green">Green</string>
+
+    <string name="ndmi_title_light_green">Light Green</string>
+    <string name="ndmi_title_lime">Lime</string>
+    <string name="ndmi_title_yellow">Yellow</string>
+    <string name="ndmi_title_amber">Amber</string>
+    <string name="ndmi_title_orange">Orange</string>
+
+    <string name="ndmi_title_deep_orange">Deep Orange</string>
+    <string name="ndmi_title_brown">Brown</string>
+    <string name="ndmi_title_grey">Grey</string>
+    <string name="ndmi_title_blue_grey">Blue Grey</string>
+
+    <string-array name="Color_identifier">
+        <item>500</item>
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+        <item>400</item>
+        <item>600</item>
+        <item>700</item>
+        <item>800</item>
+        <item>900</item>
+        <item>A100</item>
+        <item>A200</item>
+        <item>A400</item>
+        <item>A700</item>
+    </string-array>
+
+</resources>
